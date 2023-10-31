@@ -1,0 +1,1 @@
+enum LanguageStatus { en, vn }
