@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot Capture
-![Alt text](https://github.com/starlight173/weather_app_flutter/blob/main/screenshot_1.png?raw=true "ss1")
+![Alt text](https://github.com/starlight173/weather_app_flutter/blob/main/screenshot_1.PNG?raw=true "ss1")
 
 ## Techno
 - Bloc
